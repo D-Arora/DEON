@@ -1,0 +1,28 @@
+#left p {
+    flex: 1;
+    color: white;
+    margin-left:none;
+}
+
+#dropdown {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    width: 100%;
+}
+
+#tabs {
+    position: absolute;
+    background-color: yellowgreen;
+    text-decoration: none;
+    color: white;
+    display: none;
+}
+
+<div id="dropdown">
+                        <a id="tabs" href="#">Science</a>
+                        <a id="tabs" href="#">Mathematics</a>
+                        <a id="tabs" href="#">Engineering</a>
+                        <a id="tabs" href="#">(More Coming Soon)</a>
+                    </div>
