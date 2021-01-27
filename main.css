@@ -83,13 +83,13 @@ body {
 
 #drop {
     text-decoration: none!important;
-    background: mediumaquamarine;
     width: 100%;
     height: 18vh;
     color: inherit;
     font-size: 2em;
     display: block;
     float: left;
+    padding-top: 7vh;
 }
 
 #tabs {
