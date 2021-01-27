@@ -90,6 +90,7 @@ body {
     font-size: 2em;
     display: block;
     float: left;
+    padding-top: 8vh;
 }
 
 #tabs {
